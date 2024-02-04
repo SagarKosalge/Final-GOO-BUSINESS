@@ -1,14 +1,14 @@
-let fetureLi = document.querySelector("header>nav>div>ul>li:nth-child(3)");
-let drpLi = document.querySelector("header>nav>div>ul>li:nth-child(3)>ul");
+// let fetureLi = document.querySelector("header>nav>div>ul>li:nth-child(3)");
+// let drpLi = document.querySelector("header>nav>div>ul>li:nth-child(3)>ul");
 
-fetureLi.addEventListener("mouseover", ()=>{
-    drpLi.style.display = "block";
-    drpLi.style.marginRight  = "-140px";
-});
-fetureLi.addEventListener("mouseout", ()=>{  
-    drpLi.style.display = "none";
-    drpLi.style.marginRight  = "0";
-});
+// fetureLi.addEventListener("mouseover", ()=>{
+//     drpLi.style.display = "block";
+//     drpLi.style.marginRight  = "-140px";
+// });
+// fetureLi.addEventListener("mouseout", ()=>{  
+//     drpLi.style.display = "none";
+//     drpLi.style.marginRight  = "0";
+// });
 
 
 
