@@ -372,7 +372,7 @@ header>nav>div>ul>li>ul>li>a:hover{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 10px;
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: white;
 }
 .CardSection>div>div>div{
     padding: 40px 30px 70px 30px;
