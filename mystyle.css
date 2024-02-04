@@ -147,13 +147,9 @@ background-color: red; */
     border-radius: 5px;
     cursor: pointer;
 }
-.intro-image{
-    
 
-}
-.a-icon{
-    font-size: 45px;
-    padding-left: 30px;
+.technologies-icon{
+    font-size: 30px;
 }
 .c-features{
     padding-bottom: 35px;

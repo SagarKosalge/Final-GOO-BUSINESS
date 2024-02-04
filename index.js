@@ -16,12 +16,12 @@
 let changealeImgDiv = document.querySelector("#changealeImgDiv>img")
 let heddinTextP = document.querySelectorAll(".text>p")
 let imageList = [
-"https://trackingtime.co/wp-content/uploads/2023/03/website-illustrations-slide-home-time-blocking.png",
-"https://trackingtime.co/wp-content/uploads/2023/03/website-illustrations-slide-home-project-management.png",
-"https://trackingtime.co/wp-content/uploads/2023/03/website-illustrations-slide-home-timesheets.png",
-"https://trackingtime.co/wp-content/uploads/2023/03/website-illustrations-slide-home-attendance.png",
-"https://trackingtime.co/wp-content/uploads/2023/03/website-illustrations-slide-home-time-cards.png",
-"https://trackingtime.co/wp-content/uploads/2023/03/website-illustrations-slide-home-time-reporting.png",
+"./comprehensive curriculam.png",
+"./expert instruction.jpg",
+"./hands-on project and portfolio buildind.jpg",
+"./flexible schedule.jpg",
+"./career readiness.jpg",
+"./course-features-real-world projects.png",
 ]
 let i=0;
 let j=0;
