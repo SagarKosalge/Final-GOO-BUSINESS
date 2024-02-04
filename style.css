@@ -281,6 +281,7 @@ header>nav>div>ul>li>ul>li>a:hover{
 
 .allInOneSection>div>div>img{
     width: 160%;
+    border-radius: 10px;
 }
 
 
@@ -327,9 +328,12 @@ header>nav>div>ul>li>ul>li>a:hover{
 }
 .flotingSection>div>ul>li>div{
     padding: 24px 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 .flotingSection>div>ul>li>div>img{
-    width: 100%;
+    width: 36%;
 }
 
 
@@ -483,6 +487,7 @@ header>nav>div>ul>li>ul>li>a:hover{
 }
 .lastPeopleSection>div>div>div>img{
     width: 105%;
+    border-radius: 10px;
 }
 
 .lastPeopleSection>div>div:first-child>div{
