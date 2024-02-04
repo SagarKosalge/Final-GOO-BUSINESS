@@ -651,3 +651,22 @@ footer>div{
     border-left: 1px solid white;
     padding-left: 8px;
 }
+
+.btn516{
+    margin-top: 15px;
+    color: white;
+    padding: 7px 30px 11px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    background: linear-gradient(to right,#f8373d, 82%, white);
+    display: flex;
+    width: 139px;
+    gap: 7px;
+}
+
+.btn516:hover{
+    background: #f8373d;
+    gap: 20px;
+}
